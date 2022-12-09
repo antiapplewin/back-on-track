@@ -1,2 +1,2 @@
 # back-on-track
-# this is stdudying
+# this is studying
